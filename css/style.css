@@ -435,7 +435,7 @@ h6,
     left: 0;
     height: 3px;
     width: 20px;
-    background: #ff3091;
+    background: #ffffff;
 }
 
 .heading-decoration-2 span {
@@ -1345,7 +1345,7 @@ div.box-custom-2 {
 }
 
 .section-box-custom-3-outer+.section {
-    padding-top: 110px;
+    padding-top: 10px;
 }
 
 @media (min-width: 768px) {
@@ -3378,8 +3378,8 @@ hr {
 .button-primary-outline:hover,
 .button-primary-outline:active {
     color: #ffffff;
-    background-color: #3061ff;
-    border-color: #3061ff;
+    background-color: #eaef57;
+    border-color: #eaef57;
 }
 
 .button-primary-outline.button-ujarak::before {
@@ -11324,7 +11324,7 @@ html.tablet .ui-to-top {
     content: "";
     position: absolute;
     left: 0;
-    top: -6px;
+    top: -16px;
     transition: .3s all ease;
 }
 
@@ -18067,7 +18067,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-pager-outer {
-    bottom: 60px;
+    bottom: 1px;
     left: 0;
     position: absolute;
     right: 0;
